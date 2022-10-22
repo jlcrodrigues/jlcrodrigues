@@ -13,20 +13,15 @@
   
   
 </div>
-
-<h2 align="center">
- Hello world!
- <img src="https://media2.giphy.com/media/AOXNxxIJuBQdNTBblp/200w.webp?cid=790b7611l2dlb29x8mhkc2ibedf9aq9b2bpfove0xmq8zi67&rid=200w.webp" width="25px"> </h1>
-
+  <img align="right" src="https://media2.giphy.com/media/AOXNxxIJuBQdNTBblp/200w.webp?cid=790b7611l2dlb29x8mhkc2ibedf9aq9b2bpfove0xmq8zi67&rid=200w.webp" width="100px"> 
  🏙️ Located in Braga, Portugal <br>
  📖 Studying Informatics and Computing Engineering <br>
  🎓 University of Porto, Portugal <br>
+</div>
  
 <hr></hr>
 
-<div align="center">
- <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
-</div>
+
  
 ### 🖥️ Skills
 
@@ -57,10 +52,15 @@
  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VsCode">
 </div>
 
+<div align="center">
+ <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
+</div>
+
 <hr></hr>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jlcrodrigues&count_private=true&theme=ayu-mirage&show_icons=true" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlcrodrigues&layout=compact&theme=ayu-mirage" />
+<div align="center" style="color:red;">
+  <img src="https://github-readme-stats.vercel.app/api?username=jlcrodrigues&count_private=true&theme=ayu-mirage&show_icons=true"
+    heightt="400px" widtth="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlcrodrigues&layout=compact&theme=ayu-mirage"
+    height="196rem" widtth="400rem"/>
 </div>
