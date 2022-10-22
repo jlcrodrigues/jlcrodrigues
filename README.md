@@ -1,29 +1,66 @@
-<h1 align="center"> Hello world! <img src="https://media2.giphy.com/media/AOXNxxIJuBQdNTBblp/200w.webp?cid=790b7611l2dlb29x8mhkc2ibedf9aq9b2bpfove0xmq8zi67&rid=200w.webp" width="25px"> </h1>
+<h1 align="center">José Luís Rodrigues</h1>
 
-<h4 align = "center">My name is Luís :)</h4>
+<div align="center">
+  <a href="https://linkedin.com/in/jlcrodrigues">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://jlcrodrigues.me">
+   <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"/>
+  </a>
+  <a href="mailto:joseluiscunharodrigues@gmail.com">
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Website Badge"/>
+  </a>
+  
+  
+</div>
 
+<h2 align="center">
+ Hello world!
+ <img src="https://media2.giphy.com/media/AOXNxxIJuBQdNTBblp/200w.webp?cid=790b7611l2dlb29x8mhkc2ibedf9aq9b2bpfove0xmq8zi67&rid=200w.webp" width="25px"> </h1>
 
- 📖 Currently studying Informatics and Computing Engineering
+ 🏙️ Located in Braga, Portugal <br>
+ 📖 Studying Informatics and Computing Engineering <br>
+ 🎓 University of Porto, Portugal <br>
  
-<hr style="height:30pt; visibility:hidden;" />
+<hr></hr>
+
+<div align="center">
+ <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
+</div>
  
-### 🖥️ Languages and tools
+### 🖥️ Skills
 
-**Using**
-<img align = "center" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png">
-<img align = "center" height="25" src="https://avatars.githubusercontent.com/u/20628127?s=400&v=4">
-<img align = "center" height="25" src="https://camo.githubusercontent.com/ce9c7a173f38722e129d5ae832a11c928ff72683fae74cbcb9fff41fd9957e63/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f332f33662f4769745f69636f6e2e7376672f3130323470782d4769745f69636f6e2e7376672e706e67">
+#### Programming
 
-**Learning**
-<img align = "center" height="25" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png">
-<img align = "center" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png">
+<div display="flex">
+ <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+ <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+ <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
+ <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+ <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+ <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+ <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+ <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+ <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+ <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL">
+ <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell">
+</div>
 
+#### Misc
 
-<hr style="height:30pt; visibility:hidden;" />
+<div display="flex">
+ <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+ <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="Vim">
+ <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+ <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" alt="Latex">
+ <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VsCode">
+</div>
 
+<hr></hr>
 
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=jlcrodrigues&count_private=true&theme=tokyonight&show_icons=true&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlcrodrigues&theme=tokyonight&show_icons=true&layout=compact&hide_border=true& exclude_repo=github-readme-stats,anuraghazra.github.io" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jlcrodrigues&count_private=true&theme=ayu-mirage&show_icons=true" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlcrodrigues&layout=compact&theme=ayu-mirage" />
 </div>
